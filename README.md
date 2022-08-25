@@ -1,34 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+College canteen is the most visited and occupied place everyday. To ease the manual work by college canteen and students a digital website can help provide a more easy, fast and controlled flow.
 
-## Getting Started
+The Canteen Website will have services that will help student to place order from the classroom or from the hostel even before reaching the canteen this will help both college canteen cater the crowd during peak hours of breakfast, lunch and dinner and will also save student time to wait in canteen and can help other students get tables fast. 
 
-First, run the development server:
+Additionally, it can also help in delivering food at time slots , students can choose a time at which they want the food to be delivered at different DA-IICT buildings, this will help students who can’t reach canteen get the food be it any reasons like health issue, weather conditions, busy in some projects/assignments, or sometimes they don’t feel like going outside after coming back to room. Also, a time slot mechanism will help canteen staff to avoid multiple deliveries on an individual basis.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The website will be currently handled by DA-IICT Mess Management Admin Team and all the orders will be under them.Currently, no separate feature will be given to each canteen.
